@@ -1,4 +1,4 @@
-# OCR Neural Network Demo
+# OCR from scratch
 
 A browser-based optical character recognition (OCR) system that uses a simple neural network to recognize hand-drawn digits (0-9). Draw digits on a canvas, train the network, and test predictions in real-time.
 
